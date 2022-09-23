@@ -1,2 +1,2 @@
-# Test_Automation_WebSelenium
-Test Automation Website Selenium 
+# Selenium_Tutorial
+Simple Automation Testing with Sleenium
