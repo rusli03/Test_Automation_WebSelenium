@@ -22,10 +22,14 @@ Finally we have to install a browser-specific webdriver and in this article seri
 Step 5. Testing a code:
 Following is a simple code that will open Elevenia website using selenium with javascript. 
 
-![image](https://user-images.githubusercontent.com/29907676/191910383-68faeebe-859a-4bc8-8837-68221d3a8563.png)
+![image](https://user-images.githubusercontent.com/29907676/191910777-bfcc1b0b-10c8-4bda-abde-bd764b417e6f.png)
 
 Step 6. Running the code:
 In order to run the code we can simply use the normal method of running a node file and that is the following
 
 ("node file_name.js")
+
+Output :
+![image](https://user-images.githubusercontent.com/29907676/191911306-42d02a26-6443-43db-82aa-37227b3877d4.png)
+
 
